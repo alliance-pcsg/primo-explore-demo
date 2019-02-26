@@ -1,0 +1,19 @@
+{
+  "name": "@orbis-cascade/primo-explore-demo",
+  "version": "1.0.0",
+  "description": "my demo npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alliance-pcsg/primo-explore-demo.git"
+  },
+  "author": "Jeremy McWilliams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alliance-pcsg/primo-explore-demo/issues"
+  },
+  "homepage": "https://github.com/alliance-pcsg/primo-explore-demo#readme"
+}
